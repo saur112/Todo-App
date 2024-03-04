@@ -128,7 +128,7 @@ function App() {
                       {item.todo}
                     </div>
                   </div>
-                  <div className="buttons flex h-full">
+                  <div className="buttons flex h-full w-3/4">
                     <button
                       onClick={(e) => handleEdit(e,item.id)}
                       className="bg-green-600 hover:bg-green-750 p-2 py-1 text-sm font-bold text-black rounded-md mx-1"
