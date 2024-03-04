@@ -1,5 +1,5 @@
 <h1>TO-DO List</h1>
-<p>Live at ```https://65e610fd32e6f716b981f713--glowing-puffpuff-7cc271.netlify.app/```</p>
+<p>Live at https://65e610fd32e6f716b981f713--glowing-puffpuff-7cc271.netlify.app/</p>
 
 <p>Created a simple TO-DO List using React.</p>
 
